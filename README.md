@@ -4,8 +4,8 @@ My name is Pankaj and I'm a Mathematics & statistics student from India. Here's 
 
 ⚡ Work experience:
 
-## Software Engineer at Clear - Backend development on the GST Engineering team.
-## Teaching Assistant at IIT Kanpur - Principles Of Numerical Computations.
+- Software Engineer at Clear - Backend development on the GST Engineering team.
+- Teaching Assistant at IIT Kanpur - Principles Of Numerical Computations.
 🌱 Interests:
 
 Web development.
